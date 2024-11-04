@@ -1,7 +1,7 @@
 ## Bem-vindo(a) Lucas Feitosa 😁
 
  <div>
-   <a href="https://github.com/FuzileiroDelta">
+   <a href="https://github.com/Lucas Feitosa">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FuzileiroDelta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuzileiroDelta&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
